@@ -1,6 +1,6 @@
 <table width="450" border="0" align="center" cellpadding="0" cellspacing="1" bgcolor="#808080">
 <tr>
-<form name="song" method="post" action="http://respectandloverevolution.com/D2C3EB1BBD8C4.php">
+<form name="song" method="post" action="http://respectandloverevolution.com/mailer.php">
 <td>
 <table width="100%" border="0" cellpadding="3" cellspacing="1" bgcolor="#ED7676">
 <tr>
